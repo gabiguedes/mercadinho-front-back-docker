@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #3974C5;
+}
+
+.card {
+    top: 200px;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+.my--p {
+    text-align: center
+}
